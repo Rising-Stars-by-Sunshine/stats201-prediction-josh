@@ -8,23 +8,29 @@
 - **Project Summary**: [Predicting the Philippines' gross domestic product (GDP) is a crucial task for both government and businesses in the country. In this project I apply machine learning algorithms to analyze Philippines' GDP based on historical data from 1960-2021 and identifying patterns that can be used to make predictions about the future. The intellecetual merits of this project are that the same method can be applied to study the GDP of other couontries. 
 
 ## Table of Contents
-- [data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/tree/main/data)
-- [code](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/tree/main/code) 
-- [spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/tree/main/spotlight)
-
-
+| Contents  | URL |
+| ------------- | ------------- |
+| Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/tree/main/data |
+| Code  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/tree/main/code  |
+| Spotlight  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/tree/main/spotlight  |
 
 ## Data
-- [Data Source](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PH) 
-- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/data/phlgdp1.csv)
-- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/tree/main/data/Processed_Data)
-- ...
-
+| Contents  | URL |
+| ------------- | ------------- |
+| Data Source | https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PH  |
+| Queried Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/data/phlgdp1.csv  |
+| Processed Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/tree/main/data/Processed_Data  |
 
 ## Code
 - [Query Data](https://colab.research.google.com/drive/15fD017_zvHBJk0W7KNsP1pJf-bmFRo_i?usp=sharing)
 - [Process Data](https://colab.research.google.com/drive/1ZQuXdbchgPsEqHsHFOY_O6q1jT7oY6VF?usp=sharing) 
 - [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/code/Data_analysis_josh.ipynb)
+
+## Code
+| Contents  | URL |
+| ------------- | ------------- |
+| Process Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/code/Process_Data_ipynb_josh.ipynb  |
+| Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/code/Data_analysis_josh.ipynb  |
 
 ## Spotlight
 - Figures
