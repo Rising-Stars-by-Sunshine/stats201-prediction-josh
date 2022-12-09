@@ -22,11 +22,6 @@
 | Processed Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/tree/main/data/Processed_Data  |
 
 ## Code
-- [Query Data](https://colab.research.google.com/drive/15fD017_zvHBJk0W7KNsP1pJf-bmFRo_i?usp=sharing)
-- [Process Data](https://colab.research.google.com/drive/1ZQuXdbchgPsEqHsHFOY_O6q1jT7oY6VF?usp=sharing) 
-- [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/code/Data_analysis_josh.ipynb)
-
-## Code
 | Contents  | URL |
 | ------------- | ------------- |
 | Process Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/code/Process_Data_ipynb_josh.ipynb  |
