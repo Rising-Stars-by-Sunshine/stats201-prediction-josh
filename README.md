@@ -1,4 +1,4 @@
-# Title [Machine Learning Analysis of Philippines' GDP]
+# Title Machine Learning Analysis of Philippines' GDP
 ## Project information
 - **Author**: [Josh][Manto], [Data Science], [2024], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
