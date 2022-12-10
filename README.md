@@ -36,5 +36,15 @@
 
 All three figures show the decentralization index of AAVE, COMP, and LUSD from April 2020 - Oct 2022. The X-axis represents the date and Y-axis represents the decentralization value. The higher the box, the higher the decentralization index in that time span. One can observe that COMP was most decentralized at the beginning of 2020 and decentralization gradually decreased until the end of 2022. From AAVE, the same behavior can be observed as there is a sharp increase in decentralization at the beginning of 2021, withn highest decentralization in July 2021, and then gradual decrease as we appproach the end of 2022. LUSD shows similar behaviors. The trend in these three tokens is that they are becoming more and more centralized as we approach 2022's end. 
 
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/spotlight/figures/confusion%20matrix%201.png)
+
+A confusion matrix is a table that is often used to describe the performance of a classification algorithm. In the context of GDP, a confusion matrix is used to evaluate the accuracy of a model that predicts the GDP of a given country. The columns of the matrix would represent the predicted GDP values, while the rows would represent the actual GDP values
+
+confusion_matrix_df = pd.DataFrame(confusion_matrix,
+                                   index=['Actual: No', 'Actual: Yes'],
+                                   columns=['Predicted: No', 'Predicted: Yes'])
+                                 
+The entries of the matrix would indicate the number of times a given predicted GDP value was predicted for a given actual GDP value. For example, if the model predicted the GDP of country A to be $500 billion and the actual GDP of country A was $450 billion, then there would be a 1 in the entry corresponding to the intersection of the "predicted: $500 billion" column and the "actual: $450 billion" row. Data sourced from [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PH0), Matrix is from [SciKitLearn](https://scikit-learn.org/stable/)
+
 
 
