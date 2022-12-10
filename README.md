@@ -1,4 +1,4 @@
-# Title Machine Learning Analysis of Philippines' GDP
+# Machine Learning Analysis of Philippines' GDP
 ## Project information
 - **Author**: [Josh][Manto], [Data Science], [2024], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -29,12 +29,12 @@
 | Spotlight Explanation Data | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/code/Explanation_Data_josh.ipynb |
 
 ## Spotlight
-- Figures
-- Posters
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/spotlight/figures/AAVE.png)
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/spotlight/figures/COMP.png)
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/spotlight/figures/LUSD.png)
+- Images are created by [Plotly](https://plotly.com/python/distplot) px.histogram functionality. The data was sourced from [SoK: Blockchain Decentralization](https://arxiv.org/abs/2205.04256)
+
+All three figures show the decentralization index of AAVE, COMP, and LUSD from April 2020 - Oct 2022. The X-axis represents the date and Y-axis represents the decentralization value. The higher the box, the higher the decentralization index in that time span. One can observe that COMP was most decentralized at the beginning of 2020 and decentralization gradually decreased until the end of 2022. From AAVE, the same behavior can be observed as there is a sharp increase in decentralization at the beginning of 2021, withn highest decentralization in July 2021, and then gradual decrease as we appproach the end of 2022. LUSD shows similar behaviors. The trend in these three tokens is that they are becoming more and more centralized as we approach 2022's end. 
 
 ## References
 
