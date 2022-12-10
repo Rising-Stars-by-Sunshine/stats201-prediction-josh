@@ -26,6 +26,7 @@
 | ------------- | ------------- |
 | Process Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/code/Process_Data_ipynb_josh.ipynb  |
 | Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/code/Data_analysis_josh.ipynb  |
+| Spotlight Explanation Data | https://github.com/Rising-Stars-by-Sunshine/stats201-prediction-josh/blob/main/code/Explanation_Data_josh.ipynb |
 
 ## Spotlight
 - Figures
